@@ -1,4 +1,5 @@
-# domain-property-management
+# Property Management ER Model
+
 # Task requirements
 Please create the ER diagram for the following use cases:
 1. A landlord can rent out a separate apartment,the whole building or several apartments to another
